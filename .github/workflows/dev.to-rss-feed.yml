@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "DEVTO-BLOG-LIST"
-          feed_list: "https://dev.to/feed/nathanielchitn"
+          feed_list: "https://dev.to/feed/nathanielchit"
