@@ -1,8 +1,10 @@
 # My Latest Blog Posts, Videos and Articles
 My Latest Youtube Videos, DEV.to Posts, Medium Articles, Hashnode Posts, etc
 
-
-### My Latest Videos
+ 
+<table><tr><td valign="top" width="50%">
+  
+### My Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How I Got YouTube Cards](https://www.youtube.com/watch?v=EMErko_f_Bk)
@@ -12,8 +14,9 @@ My Latest Youtube Videos, DEV.to Posts, Medium Articles, Hashnode Posts, etc
 - [Why I love Visual Studio Code](https://www.youtube.com/watch?v=5xq3Btj3tPE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
+</td><td valign="top" width="50%">
 
-### My Recent Posts
+### My Recent DEV.to Posts
 
 <!-- DEVTO-BLOG-LIST:START -->
 - [5 Tips on Coding with Python](https://dev.to/nathanielchit/5-tips-on-coding-with-python-38m1)
@@ -22,13 +25,4 @@ My Latest Youtube Videos, DEV.to Posts, Medium Articles, Hashnode Posts, etc
 - [First Blog Post](https://dev.to/nathanielchit/first-blog-post-2i5p)
 <!-- DEVTO-BLOG-LIST:END -->
 
-
-### My Recent Articles
-
-<!-- MEDIUM-ARTICLE-LIST:START -->
-<!-- MEDIUM-ARTICLE_LIST:END -->
-
-### My Recent Blog Articles
-
-<!-- HASHNODE-BLOG-LIST:START -->
-<!-- HASHNODE-BLOG-LIST:END -->
+</td></tr></table>
