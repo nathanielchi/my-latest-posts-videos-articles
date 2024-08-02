@@ -5,6 +5,11 @@ My Latest Youtube Videos, DEV.to Posts, Medium Articles, Hashnode Posts, etc
 ### My Latest Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How I Got YouTube Cards](https://www.youtube.com/watch?v=EMErko_f_Bk)
+- [How to upload you latest YouTube content](https://www.youtube.com/watch?v=UiCwE6Owv00)
+- [Intro Video](https://www.youtube.com/watch?v=7EhAyKwXO_A)
+- [Do I update me GitHub Projects?](https://www.youtube.com/watch?v=2l84wNGfEAA)
+- [Why I love Visual Studio Code](https://www.youtube.com/watch?v=5xq3Btj3tPE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
