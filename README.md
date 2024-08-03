@@ -16,7 +16,7 @@ My Latest Youtube Videos, DEV.to Posts, Medium Articles, Hashnode Posts, etc
 
 </td><td valign="top" width="50%">
 
-### <a href="https://dev.to/nathanielchi"><img src="https://github.com/nathanielchi/nathanielchi/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> My Recent DEV.to Posts
+### <a href="https://dev.to/nathanielchi"><img src="https://github.com/nathanielchi/my-latest-posts-videos-articles/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> My Recent DEv.to Blog Posts
 
 <!-- DEVTO-BLOG-LIST:START -->
 - [5 Tips on Coding with Python](https://dev.to/nathanielchi/5-tips-on-coding-with-python-38m1)
